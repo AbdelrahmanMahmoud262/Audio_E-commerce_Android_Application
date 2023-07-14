@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Electronics E-commerce</string>
+    <string name="audio">Audio</string>
+    <string name="it_s_modular_and_designed_to_last">It\'s modular and designed to last</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_here">Sign Up here</string>
+    <string name="didn_t_have_any_account">Didn’t have any account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_here">Sign In here</string>
+    <string name="if_you_have_an_account">If you have an account?</string>
+    <string name="apple_login">Apple login</string>
+    <string name="google_login">Google login</string>
+    <string name="facebook_login">Facebook login</string>
+    <string name="hi_user">Hi, User</string>
+    <string name="menu">menu</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="what_are_you_looking_for_today">What are you looking for \ntoday?</string>
+    <string name="tma_2_modular_headphone">TMA-2 \nModular \nHeadphone</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="product_image">Product Image</string>
+    <string name="latest_search">Latest search</string>
+</resources>
